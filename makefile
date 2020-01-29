@@ -1,4 +1,3 @@
-
 FLAG := -Wall
 
 myexe: main.o myfunc.o

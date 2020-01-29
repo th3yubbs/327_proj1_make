@@ -1,7 +1,7 @@
- 
 #include "myfunc.h"
 
-std::string myfunc()
+std::string func()
 {
-	return func();
+	return "hello";
 }
+
